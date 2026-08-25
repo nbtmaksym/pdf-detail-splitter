@@ -1,0 +1,1 @@
+"PyMuPDF`nopencv-python-headless`nnumpy`nscipy`nscikit-image`npillow`npytesseract"
